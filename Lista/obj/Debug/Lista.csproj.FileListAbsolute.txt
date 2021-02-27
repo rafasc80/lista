@@ -1,0 +1,10 @@
+C:\Users\RAFA\Desktop\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\RAFA\Desktop\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\RAFA\Desktop\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\RAFA\Desktop\Lista\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\RAFA\Desktop\Lista\Lista\obj\Debug\Lista.Form1.resources
+C:\Users\RAFA\Desktop\Lista\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\RAFA\Desktop\Lista\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\RAFA\Desktop\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\RAFA\Desktop\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\RAFA\Desktop\Lista\Lista\obj\Debug\Lista.pdb
